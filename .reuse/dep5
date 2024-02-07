@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: vendor-eva-icons
+Upstream-Name: eva-icons-font
 Upstream-Contact: Grigore Stefan <g_stefan@yahoo.com>
-Source: https://github.com/g-stefan/vendor-eva-icons
+Source: https://github.com/g-stefan/eva-icons-font
 License: MIT
 
 Files: .github/*
